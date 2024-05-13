@@ -61,6 +61,11 @@ nav {
 
 
 
+.company-logo img {
+  width: 120px;
+}
+
+
 .nav-links ul {
   gap: 16px;
 }
